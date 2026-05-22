@@ -1,10 +1,11 @@
+pandas
+numpy
 streamlit
 tensorflow
-numpy==1.26.4
 matplotlib
+seaborn
 Pillow
 gdown
 opencv-python-headless
 scikit-learn
-pandas
-seaborn
+

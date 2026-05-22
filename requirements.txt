@@ -1,8 +1,12 @@
 streamlit
-tensorflow==2.16.1
+tensorflow
 numpy
 pillow
 matplotlib
 gdown
 h5py
 protobuf
+opencv-python-headless
+scikit-learn
+seaborn
+pandas

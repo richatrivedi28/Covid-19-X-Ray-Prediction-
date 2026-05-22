@@ -23,7 +23,6 @@ statsmodels
 shap
 imbalanced-learn
 Pillow
-jupyterlab
 tensorflow
 keras
 torch
